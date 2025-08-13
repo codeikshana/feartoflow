@@ -8,7 +8,7 @@ const Header = () => {
       <div className="flex flex-col gap-6 md:ml-0 ml-0 md:mt-0 mt-8 text-center md:text-left">
         
         {/* Tagline */}
-        <div className="flex items-center justify-center md:justify-start gap-2 border border-grayborder rounded-[24px] w-fit px-4 h-[37px] mx-auto md:mx-0">
+        <div className="flex items-center justify-center md:justify-start gap-2 border border-grayborder rounded-[24px] w-fit px-4 h-[55px] mx-auto md:mx-0">
           <span className="bg-primary w-[9px] h-[9px] rounded-full" />
           <span className="text-primary text-sm">
             The Dept. of CSE & CSBS, TMSL presents
