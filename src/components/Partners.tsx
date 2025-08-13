@@ -1,4 +1,4 @@
-import { partners } from "../data"
+// import { partners } from "../data"
 
 const Partners = () => {
     return (
