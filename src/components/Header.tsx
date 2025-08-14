@@ -27,7 +27,7 @@ const Header = () => {
         </p>
 
         {/* Buttons */}
-        <div className="flex flex-wrap items-center justify-center md:justify-start gap-4 mt-4">
+        <div className="flex flex-wrap items-center justify-center md:justify-start gap-4 mt-4 z-99">
           <a href="https://lu.ma/jfh9tz8c">
             <button className="bg-primary text-black px-6 py-2 text-center cursor-pointer rounded-[40px] min-h-[50px] hover:opacity-90 transition">
               Register Now
