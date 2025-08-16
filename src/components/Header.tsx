@@ -34,7 +34,7 @@ const Header = () => {
             </button>
           </a>
 
-          <a href="https://images.lumacdn.com/editor-attachments/cz/771a48cd-abc8-4c36-97c1-b0c9abc72f8d.pdf">
+          <a href="https://images.lumacdn.com/editor-attachments/l2/01e8e317-fad9-47e4-b620-5cf7d8e0a606.pdf">
             <button className="text-light border border-grayborder px-6 py-2 text-center cursor-pointer rounded-[40px] min-h-[50px] hover:bg-light hover:text-black transition">
               Event Guidelines
             </button>
